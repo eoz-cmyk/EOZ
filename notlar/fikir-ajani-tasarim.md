@@ -1,6 +1,6 @@
 # Günlük fikir ajanı — tasarım
 
-**Son güncelleme:** 2026-11-18 · **Durum:** kuruluyor
+**Son güncelleme:** 2026-11-18 · **Durum:** çalışıyor (ilk düzenli çalıştırma 2026-11-19)
 
 ## Amaç
 Erdem'in aklına gelmemiş, hızlı geri dönüşlü, kârlı ve exit ihtimali olan iş/yatırım fikirlerini her gün bir tane bulup Telegram'dan bildirmek; Erdem "devam / park / red" der.
@@ -11,10 +11,10 @@ Erdem'in aklına gelmemiş, hızlı geri dönüşlü, kârlı ve exit ihtimali o
 - Başarısızlık sayılır: klişe veya tekrar eden fikirler, kaynaksız iddialar.
 
 ## Yaklaşımlar
-1. **Her sabah yeni oturum (seçildi):** temiz bağlam, havuz dosyası hafıza işlevi görür. Erdem'in cevabı o an açık oturuma düşmezse ertesi sabahki mesaj bekleyen kararları hatırlatır.
-2. Hep aynı oturumda çalışmak: cevaplar doğrudan gelir ama oturum şişer, uzun vadede kırılgan.
+1. Her sabah yeni oturum (ilk seçim): denendi; görevin açtığı yeni oturumlara depo eklenemediği için push 403 verdi. Bırakıldı.
+2. **Depolu, kalıcı tek oturum (şu an):** görev her sabah aynı oturuma ("Günlük fikir ajanı (kalıcı)") mesaj atar; depo erişimi var. Hafıza yine havuz dosyasında; oturum bağlamı zamanla özetlenir. Erdem'in cevabı açık bir oturuma düşmezse ertesi sabahki mesaj bekleyen kararları hatırlatır.
 
 ## Kurulum
-- Zamanlama: her gün 08:00 Europe/Istanbul, her çalıştırmada yeni oturum.
+- Zamanlama: her gün 07:45 Europe/Istanbul (mesaj ~08:00'de gelir), kalıcı oturuma.
 - Talimat: `notlar/fikir-ajani-talimat.md` · Havuz: `notlar/fikir-havuzu.md` · Gönderim: `araclar/telegram_gonder.sh`
 - Sınır dışı fikirler atılmaz; etiketlenir ve nasıl yapılabilir hale geleceği yazılır.
