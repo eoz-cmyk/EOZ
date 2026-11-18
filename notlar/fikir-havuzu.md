@@ -1,6 +1,6 @@
 # Fikir havuzu
 
-**Son güncelleme:** 2026-11-18 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
+**Son güncelleme:** 2026-11-19 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
 
 Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tarafından tekrar önerilmez.
 
@@ -14,6 +14,8 @@ Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tara
 | 2026-11-18 | Restoran kiosk / QR sipariş sistemi (bayilik) | TR | içinde | – | park | `arastirma/2026-11-18-kiosk-qr-siparis-sistemi.md` |
 | 2026-11-18 | Robot kollu kiosk (barista / sandviç / tost) | TR | sınır dışı | – | park | `arastirma/2026-11-18-robot-kiosk-barista.md` |
 | 2026-11-19 | Yapay zekâ ile yüzsüz video kanalı (pasif gelir) | online | içinde | – | red | `arastirma/2026-11-19-yapay-zeka-video-pasif-gelir.md` |
+| 2026-11-19 | EUDR uyum paketi: mobilya/ahşap ihracatçısı KOBİ'lere sabit fiyatlı veri ve risk dosyası (yazılım bayiliği) | TR | içinde | 18/25 | yeni | `arastirma/2026-11-19-fikir-eudr-uyum-paketi.md` |
+| 2026-11-19 | Lisanssız GES'lere temizlik + termal drone aboneliği (İç Anadolu) | TR | içinde | 18/25 | yeni | `arastirma/2026-11-19-fikir-ges-temizlik-abonelik.md` |
 
 ## Karar notları
 - 2026-11-18 · Kiosk/QR: kendi yazılımı YAPMA; bayilik ÖNCE TEST ET. Test kararı bekliyor (`takip/kiosk-siparis.md`).
