@@ -1,0 +1,36 @@
+{
+  "baslik": "Robot kollu kiosklar: barista, sandviç ve tost robotları",
+  "alt_baslik": "AVM ve açık alanlara konan otonom satış robotları yatırım olarak mantıklı mı?",
+  "tarih": "18 Kasım 2026",
+  "karar": "Şimdi makine satın alınmamalı. Önce sıfır sermayeli 2 haftalık test.",
+  "karar_detay": "Kahve robotu ancak günde **100+ fincan** satışı doğrulanmış bir lokasyonda ve tercihen ciro paylaşımlı veya kiralık modelle mantıklı. Sandviç ve tost robotları: **hayır**.",
+  "metrikler": [
+    {"etiket": "Kurulu yatırım", "deger": "1,8 – 3,7 M TL", "not": "35–73 bin USD, tek makine; gümrük yükü netleşmedi"},
+    {"etiket": "Başa baş", "deger": "~35–40 fincan/gün", "not": "120 TL fincan fiyatıyla, vergi öncesi"},
+    {"etiket": "12 ayda geri dönüş", "deger": "100–190 fincan/gün", "not": "2 yıl için 70–110 fincan/gün"}
+  ],
+  "bolumler": [
+    {"etiket": "Pazar", "metin": "Küresel robotlu kahve kiosku pazarı küçük bir niş; raporlara göre 0,3–1 milyar USD. Çinli üreticiler hâkim (Hi-Dolphin/COFE+ 65 ülkeye satış yaptığını açıklıyor). Türkiye'de yerli üreticiler (X Barista, Coffeetropic) AVM pilotlarına yeni başladı."},
+    {"etiket": "Ekonomi", "metin": [
+      "Türkiye'de zincirlerde latte 165–195 TL, mahalle kafelerinde 90–120 TL. Robot için 120 TL fiyat varsayıldı.",
+      "Günde 120 fincanda aylık FAVÖK ~180 bin TL, geri dönüş 10–20 ay; günde 80 fincanda 17–37 ay.",
+      "Üreticilerin \"4–8 ayda geri dönüş\" vaadi, havalimanı ve metro gibi günde 400+ fincan satan noktalar için geçerli."
+    ]},
+    {"etiket": "Riskler", "metin": [
+      "**Pasif değil:** günlük dolum ve temizlik gerekiyor, arızada gelir sıfıra iniyor.",
+      "Yenilik etkisi birkaç ayda sönüyor. Robot kahve yalnızca yoğun geçiş noktalarında kalıcı oldu (Cafe X örneği).",
+      "AVM ciroları reel olarak daralıyor; kira ve ciro payı marjı eritiyor. Yatırım dolar, gelir TL.",
+      "Teknolojide rakiplere karşı avantaj yok; tek avantaj iyi bir lokasyon sözleşmesi.",
+      "Sandviç ve tost robotları olgun değil; gıda israfı ve mevzuat riski yüksek."
+    ]},
+    {"etiket": "Test (≤2 hafta)", "metin": [
+      "3 AVM'den kiosk kirası ve ciro payı teklifi.",
+      "Türkiye'deki mevcut robot kioskların 3. aydan sonraki gerçek günlük satışları.",
+      "Üreticilerden Türkiye'ye teslim fiyatı; gümrük müşavirinden toplam vergi yükü.",
+      "Seçilen noktada yaya trafiği sayımı."
+    ]},
+    {"etiket": "Vazgeçme koşulu", "metin": "Trafiğe göre tahmin günde 100 fincanın altında kalırsa, kurulu maliyet ciro paylaşımı olmadan 45 bin USD'yi aşarsa ya da kira ve ciro payı cironun %18'ini geçerse vazgeçilir."},
+    {"etiket": "Güven", "metin": "Karara güven ~%70. Birim ekonominin yönü sağlam; AVM kira rakamları ve gümrük yükü henüz doğrulanmadı."}
+  ],
+  "kaynak_notu": "Kaynaklar: SkyQuest, Intel Market Research, HKTDC (COFE+ fiyatı), Alibaba, GCR Mag, Hi-Dolphin basın bültenleri, YL Vending, The Spoon (Cafe X), DHA ve Para Dergi (Türk robot baristaları), AYD/ECE AVM ciro verileri, Starbucks Türkiye fiyat listesi. Kur: 1 USD ≈ 50,3 TL (Kasım 2026)."
+}
