@@ -11,6 +11,12 @@ Erdem için, **aklına gelmemiş** yatırım veya iş fikirleri. Aradığı:
 
 Varsayılan sınırlar (Varsayım, Erdem düzeltebilir): ≤50 bin € sermaye, ≤6 ayda ilk gelir, haftada birkaç saat zaman (HPP ve Vitrexia 1. kademe). Sınırı aşan fikir **atılmaz**: `sınır dışı` etiketlenir, hangi sınırı aştığı ve nasıl yapılabilir hale gelebileceği (ortak, pilot, teşvik/kredi, sadece bir parçası) yazılır.
 
+## Tek seferlik yönlendirme (kullanıldıktan sonra bu bölümü sil)
+- **2026-11-20 çalıştırması:** Yeni fikir, **ücretli Telegram bildirim grubu** alanından seçilecek. Model: kamuya açık ama dağınık bilgiyi toplayıp filtreleyen ve abonelere her gün gönderen bir grup. Örnek alanlar: EKAP ihaleleri, icra ve Milli Emlak satışları, teşvik ve hibe çağrıları, ihracat alım talepleri. Başka alanlar da olabilir.
+- **Hariç tutulacaklar:** Yasa dışına yakın her şey. Bahis veya maç tahmini, borsa veya kripto sinyali (SPK lisansı olmadan yatırım danışmanlığı sayılır), kişisel veri satışı.
+- Raporda gelir modeli (abonelik fiyatı, kaç abone gerekir), otomasyonun nasıl kurulacağı ve hukuki riskler ayrıca yazılsın.
+- Çalıştırmadan sonra bu bölümü sil ve silmeyi aynı commit'e ekle.
+
 ## Her çalıştırmada adımlar
 1. `git pull` (main). `notlar/fikir-havuzu.md`, `takip/` ve `arastirma/` başlıklarını oku.
 2. **Bekleyen kararlar:** havuzda durumu `yeni` olan fikirleri listele (Telegram mesajının sonuna bir satırlık hatırlatma olarak eklenecek).
