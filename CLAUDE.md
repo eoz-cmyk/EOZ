@@ -11,6 +11,7 @@ Bu depo HPP ve Vitrexia **dışındaki** her şey içindir: araştırmalar, gene
 ## Kurallar
 - 1. kademe öncelik HPP ve Vitrexia'dır; buradaki işler arka planda yürür. Bir iş öne çıkarılacaksa bu açıkça kararlaştırılır.
 - Her takip dosyasında son durum, sıradaki adım ve son güncelleme tarihi yazılır; uzun süre hareketsiz kalan işler açıkça işaretlenir.
+- Saat dilimi: aksi belirtilmedikçe tüm tarih, saat, zamanlanmış görev ve hatırlatmalar İstanbul saatine (Europe/Istanbul, UTC+3) göre yapılır.
 - Belirtilen her bilgi Gerçek / Varsayım / Spekülasyon olarak etiketlenir; kaynaklar dosyanın sonunda listelenir.
 
 ## Klasörler

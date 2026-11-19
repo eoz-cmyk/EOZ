@@ -12,7 +12,8 @@ sayısı 90'ı geçemez. Giriş ve çıkış günleri tam gün sayılır.
 """
 import re
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 TAKIP = Path(__file__).resolve().parent.parent / "takip" / "schengen-90-180.md"
@@ -62,7 +63,7 @@ def en_gec_cikis(seyahatler, bugun):
 
 
 def ozet(bugun=None):
-    bugun = bugun or date.today()
+    bugun = bugun or datetime.now(ZoneInfo("Europe/Istanbul")).date()  # 'bugün' İstanbul saatine göre
     s = seyahatleri_oku()
     gunler = gun_kumesi(s, bugun)
     k = kullanilan(gunler, bugun)
