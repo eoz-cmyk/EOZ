@@ -1,24 +1,26 @@
-# MDF Türkiye → Bulgaristan ticareti — takip
+# MDF / levha Türkiye → Bulgaristan ticareti — takip
 
 **Kademe:** 3 (arka plan) · **Son güncelleme:** 2026-11-19
 
 ## Son durum
-- Araştırma tamamlandı: `arastirma/2026-11-19-mdf-tr-bg-ticaret.md`
+- Rapor 1 (tek müşteri, 18 mm ham MDF): `arastirma/2026-11-19-mdf-tr-bg-ticaret.md` — ÖNCE TEST ET; parsiyelde kâr yok, komple tırda ince marj.
+- Rapor 2 (çok tedarikçiden fazla stok toplama): `arastirma/2026-11-19-fazla-stok-levha-araciligi.md` — **Platform kurma. Komisyonlu "fazla stok aracılığı" olarak ÖNCE TEST ET.**
 - Çalışma tablosu (Claude Sheets): "MDF TR→BG — Üreticiler, Fiyat ve Navlun" — https://claude.ai/artifact/RC6YUseBAM3EvtnAbhhxZ6
-- Karar: **ÖNCE TEST ET.** Ayda 100 plaka parsiyelle kâr yok; komple tır (≈310 plaka) ve EXW ≤ €30–32 ile ince marj.
-- Henüz hiçbir fabrikaya ve nakliyeciye yazılmadı.
+- Yeni bilgi: Bulgaristan'daki açık asıl **yonga levha/suntalam** tarafında (Kronospan V. Tarnovo yonga hattı Ocak 2026'dan beri kapalı; MDF hattı Şubat sonunda yeniden çalıştı).
+- Düzeltme: EUDR ahşap sektöründe mikro/küçük şirketler için de **30 Aralık 2026**'da başlıyor (Rapor 1'deki 2027 varsayımı yanlış).
+- Henüz hiçbir fabrikaya, bayiye ve nakliyeciye yazılmadı.
 
-## Sıradaki adım (≤ 10 gün)
-1. Bulgar kontağa 4 soru: ürün tipi, şu anki alış fiyatı/tedarikçi, vade, başka atölye.
-2. Teverpan, Starwood, Kastamonu, Yıldız Entegre, Divapan'a teklif isteği (şablon raporda).
-3. 3 nakliyeciden parsiyel + komple navlun (Sofya, Varna, Şumen).
-4. Rakamları Sheets'teki modele gir, karar ver.
+## Sıradaki adım (≤ 14 gün)
+1. Bulgar kontak: ürün (MDF/sunta, ham/kaplamalı), kalınlık, miktar, hedef fiyat, şu anki tedarikçi, vade, ikinci kalite/seri sonu kabul eder mi?
+2. 5 üretici + 5 büyük bayi/depoya: ihracata açık ikinci kalite / seri sonu / iptal sipariş stok listesi + formaldehit (REACH 77) ve odun kaynağı belgesi.
+3. OAİB'ye 4410/4411 ihracat kaydını, gümrük müşavirine A.TR ve EUDR operatörlüğünü teyit ettir.
+4. Stok tablosunu Bulgar kontak + 5–10 Balkan alıcıya gönder.
 
 ## Öldürme kriterleri
-- EXW 18 mm > €31 ve hacim parsiyelde kalıyor
-- Kontağın mevcut alış fiyatı < €42 (KDV hariç, teslim)
-- 5 fabrikadan 2+'sı 100 plakaya doğrudan satmıyor
-- 30 günde ayda 1 tırı dolduracak alıcı yok
+- 10 kaynaktan 3'ünden az belgeli stok listesi
+- "Fazla stok" fiyatı normal fiyatın %10'undan az altında
+- 30 günde 1 tır yok / 60 günde ayda 2 tır tekrar eden hacim yok
+- (Rapor 1) EXW 18 mm > €31 ve hacim parsiyelde; kontağın mevcut alış fiyatı < €42
 
 ## Not
 HPP ve Vitrexia'nın haftalık satış bloğunu yemesine izin verilmez. Haftada en fazla 2–3 saat.
