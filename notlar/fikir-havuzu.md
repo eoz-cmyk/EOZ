@@ -1,6 +1,6 @@
 # Fikir havuzu
 
-**Son güncelleme:** 2026-11-19 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
+**Son güncelleme:** 2026-11-20 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
 
 Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tarafından tekrar önerilmez.
 
@@ -17,6 +17,7 @@ Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tara
 | 2026-11-19 | EUDR uyum paketi: mobilya/ahşap ihracatçısı KOBİ'lere sabit fiyatlı veri ve risk dosyası (yazılım bayiliği) | TR | içinde | 18/25 | yeni | `arastirma/2026-11-19-fikir-eudr-uyum-paketi.md` |
 | 2026-11-19 | Lisanssız GES'lere temizlik + termal drone aboneliği (İç Anadolu) | TR | içinde | 18/25 | yeni | `arastirma/2026-11-19-fikir-ges-temizlik-abonelik.md` |
 | 2026-11-19 | İkinci el elektrikli araca batarya sağlık sertifikası (galeri/filo B2B, Otorapor/Aviloo partnerliği) | TR | içinde | 18/25 | yeni | `arastirma/2026-11-19-fikir-ev-batarya-sertifikasi.md` |
+| 2026-11-20 | Balkan İhale Radarı: BG/RO/GR kamu ihalelerini Türk KOBİ'lerine Türkçe özetleyen ücretli Telegram kanalı | online | içinde | 18/25 | yeni | `arastirma/2026-11-20-fikir-balkan-ihale-radari.md` |
 
 ## Karar notları
 - 2026-11-18 · Kiosk/QR: kendi yazılımı YAPMA; bayilik ÖNCE TEST ET. Test kararı bekliyor (`takip/kiosk-siparis.md`).
