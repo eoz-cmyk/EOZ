@@ -1,6 +1,6 @@
 # Fikir havuzu
 
-**Son güncelleme:** 2026-11-23 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
+**Son güncelleme:** 2026-11-24 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
 
 Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tarafından tekrar önerilmez.
 
@@ -21,6 +21,7 @@ Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tara
 | 2026-11-21 | TR pazaryeri satıcılarının iade/fazla stoklarını palet bazında alıp Bulgaristan'da outlet olarak satmak | BG | içinde | 17/25 | yeni | `arastirma/2026-11-21-fikir-iade-stok-bulgaristan-outlet.md` |
 | 2026-11-22 | Site şarj operatörü: sitelere anahtar teslim EV şarj altyapısı, alt sayaç ve aylık faturalama | TR | içinde | 18/25 | yeni | `arastirma/2026-11-22-fikir-site-sarj-operatoru.md` |
 | 2026-11-23 | Türk e-ihracatçılara Bulgaristan şirketi üzerinden AB Sorumlu Kişi (GPSR) hizmeti, Türkçe destekli | online | içinde | 19/25 | yeni | `arastirma/2026-11-23-fikir-gpsr-ab-sorumlu-kisi.md` |
+| 2026-11-24 | Kıyı otellerine tasarruftan pay modeliyle gri su geri kazanımı | TR · gelecek | sınır dışı (ölçek sermayesi) | 16/25 | yeni | `arastirma/2026-11-24-fikir-otel-gri-su-tasarruf.md` |
 
 ## Karar notları
 - 2026-11-18 · Kiosk/QR: kendi yazılımı YAPMA; bayilik ÖNCE TEST ET. Test kararı bekliyor (`takip/kiosk-siparis.md`).
