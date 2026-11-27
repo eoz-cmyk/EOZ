@@ -1,6 +1,6 @@
 # Fikir havuzu
 
-**Son güncelleme:** 2026-11-26 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
+**Son güncelleme:** 2026-11-27 · Günlük fikir ajanı her sabah bu dosyayı okur ve buraya yazar. Talimatlar: `notlar/fikir-ajani-talimat.md`.
 
 Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tarafından tekrar önerilmez.
 
@@ -24,6 +24,7 @@ Burada geçen hiçbir fikir (ve HPP / Vitrexia kapsamındaki her şey) ajan tara
 | 2026-11-24 | Kıyı otellerine tasarruftan pay modeliyle gri su geri kazanımı | TR · gelecek | sınır dışı (ölçek sermayesi) | 16/25 | yeni | `arastirma/2026-11-24-fikir-otel-gri-su-tasarruf.md` |
 | 2026-11-25 | Yalnız yaşayan yaşlılar için kamerasız radarla düşme algılama aboneliği (aile + belediye) | TR · gelecek | içinde | 17/25 | yeni | `arastirma/2026-11-25-fikir-kamerasiz-dusme-algilama.md` |
 | 2026-11-26 | Atık yemeklik yağ (UCO) toplama: Eskişehir bölgesinde lisanslı tesis ortağı olarak toplayıp SAF/biyodizel rafinerilerine satmak | TR | içinde | 18/25 | yeni | `arastirma/2026-11-26-fikir-atik-yemek-yagi-toplama.md` |
+| 2026-11-27 | BG sahilinde satmak isteyen yabancı mülk sahiplerini Türk emekli alıcılarla eşleştirme (Türkçe aracılık) | BG | içinde | 16/25 | yeni | `arastirma/2026-11-27-fikir-bg-sahil-turk-emekli-eslestirme.md` |
 
 ## Karar notları
 - 2026-11-18 · Kiosk/QR: kendi yazılımı YAPMA; bayilik ÖNCE TEST ET. Test kararı bekliyor (`takip/kiosk-siparis.md`).
